@@ -1,4 +1,7 @@
-title: Welcome to my site !
+---
+title: Welcome to my first site !
+date: 2022-06-16
+---
 author: Benji-
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
